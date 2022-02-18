@@ -1,0 +1,24 @@
+{
+  "name": "01-drum-kit",
+  "version": "1.0.0",
+  "description": "Day 1 of the 30 Day JavaScript Challenge by Wes Bos!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephhyL/JS30-Drum-Kit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephhyL/JS30-Drum-Kit/issues"
+  },
+  "homepage": "https://github.com/StephhyL/JS30-Drum-Kit#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
