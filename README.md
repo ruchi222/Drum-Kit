@@ -10,7 +10,7 @@ Link: https://js30-drum-kit.herokuapp.com/
 
 ## Final Product Preview
 
-![home-page](https://github.com/StephhyL/JS30-Drum-Kit/blob/main/docs/home.png)
+![home-page](https://github.com/ruchi222/Drum-Kit/blob/master/docs/home.png)
 
 ### Concepts I've Learned/Re-learned From this Challenge:
 
