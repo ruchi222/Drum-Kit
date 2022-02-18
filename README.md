@@ -4,9 +4,7 @@
 
 The is Day 1 of the [30 Day Vanilla JavaScript Coding Challenge](https://javascript30.com/) by Wes Bos! The base code was provided.
 
-## Check it out on Heroku
 
-Link: https://js30-drum-kit.herokuapp.com/
 
 ## Final Product Preview
 
