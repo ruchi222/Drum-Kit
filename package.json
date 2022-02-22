@@ -15,9 +15,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/StephhyL/JS30-Drum-Kit/issues"
+    "url": "https://github.com/ruchi222/Drum-Kit/issues"
   },
-  "homepage": "https://github.com/StephhyL/JS30-Drum-Kit#readme",
+  "homepage": "https://github.com/ruchi222/Drum-Kit/blob/master/README.md",
   "dependencies": {
     "express": "^4.17.2"
   }
