@@ -19,7 +19,7 @@ The is Day 1 of the [30 Day Vanilla JavaScript Coding Challenge](https://javascr
 ## Getting Started
 
 1. Clone repo
-2. `npm i`
+2. `npm install`
 3. `npm start`
 4. visit `localhost:3001`
 
